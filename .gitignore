@@ -2,3 +2,5 @@
 "5 RecSys/reviews_Video_Games_5.json"
 "6 Imgs/test.csv"
 "6 Imgs/train.csv"
+*.csv
+*.json
